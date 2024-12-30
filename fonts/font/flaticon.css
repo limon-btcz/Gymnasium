@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?f00784b06bf83813b0ce5482b5bfa2ad") format("truetype"),
+url("./flaticon.woff?f00784b06bf83813b0ce5482b5bfa2ad") format("woff"),
+url("./flaticon.woff2?f00784b06bf83813b0ce5482b5bfa2ad") format("woff2"),
+url("./flaticon.eot?f00784b06bf83813b0ce5482b5bfa2ad#iefix") format("embedded-opentype"),
+url("./flaticon.svg?f00784b06bf83813b0ce5482b5bfa2ad#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-chin-up-bar:before {
+    content: "\f101";
+}
+.flaticon-man-exercising-back-and-legs:before {
+    content: "\f102";
+}
+.flaticon-boxing-fighter:before {
+    content: "\f103";
+}
+.flaticon-buddhist-yoga-pose:before {
+    content: "\f104";
+}
+.flaticon-exercise:before {
+    content: "\f105";
+}
+.flaticon-weightlifting:before {
+    content: "\f106";
+}
+.flaticon-olympic-weightlifting:before {
+    content: "\f107";
+}
+.flaticon-gym-machine:before {
+    content: "\f108";
+}
